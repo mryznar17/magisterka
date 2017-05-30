@@ -1,0 +1,19 @@
+uwagi:
+1. czêstsze odnoœniki do Ÿróde³
+2. podpisanie listingów: np. Ÿród³o w³asne
+3. linijki w listingach, do których dodany zostanie opis
+
+5. zamieniæ s³owa opis na analiza lub zestawienie? by w lepszy sposób uwidoczniæ wartoœæ dodan¹ i wnioski
+6. lepszy opis w³asnych rozwi¹zañ (np. u¿y³em kontrolera odl dlatego, ¿e ma zmapowany model danych ovsdb i plugin do komunikacji z urz¹dzeniami ovsdb i model danych openflow wraz z pluginem, a póŸniej wykonywaæ dobrze opisane akcje porównawcze)
+7. w pracach przy porównaniu praktycznym zaznaczyæ, ¿e tworzone np topologia mininet zosta³a stworzona przeze mnie
+8. odnoœniki do pracy zawodowej
+9. screen shoty , workflow przy zestawianiu kontrolerow 
+10. odnosniki do odla i innego kontrolera? 
+
+
+zalatwic z zespolem:
+zabawy
+repertuar
+ze umawiamy sie na miejscu o 15
+czy mozemy karaoke i jak co
+muzyka miedzy kawalkami
