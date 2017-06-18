@@ -1,0 +1,15 @@
+Szanowny Panie Doktorze,
+
+W załączniku znajduje się skończona praca magisterska w formacie doc oraz pdf. 
+
+Mam nadzieję, że przed wyjazdem, o którym wspominał Pan podczas naszej ostatniej rozmowy, uda się Panu Doktorowi przejrzeć i nanieść poprawki.
+Bardzo mi zależy, abym mógł się bronić w Lipcu, ponieważ w jesieni najprawdopodobniej będę musiał wyjechać co uniemożliwi obronienie pracy magisterskiej.
+
+Podczas naszych rozmów sugerował Pan napisanie aplikacji przedstawiającej wyniki konfiguracji przełączników OVS za pomocą kontrolerów SDN, jednakże ze względu na to, że chciałbym się bronić w następnym miesiącu, zwracam się do Pana z prośbą o możliwość zaniechania pisania tejże aplikacji.
+Swoją prośbę motywuję dodatkowo faktem, że miałem sporo pracy z konfiguracją i wykonaniem zadań za pomocą dwóch kontrolerów SDN (Wiele rzeczy nie było udokumentowanych, musiałem działać eksperymentalnie).
+
+Byłbym bardzo wdzięczny za szybką odpowiedź, jednocześnie chciałbym zapytać o ramy czasowe całego procesu kładania pracy. 
+Czy zdaniem Pana Doktora złożenie pracy w dziekanacie w tym tygodniu i obrona w Lipcu są realne?
+
+Z poważaniem,
+Marek Ryznar
